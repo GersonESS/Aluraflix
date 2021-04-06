@@ -1,5 +1,96 @@
 h1{
-    color:  #6673DF;
- /*   text-shadow: 4px 4px 0px #000000;*/
-    text-align: center;
+
+position: absolute;
+width: 428px;
+height: 67px;
+left: 480px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+text-align: center;
+
+color: #6673DF;
+
+}
+h2{
+  /* Adicione Seu Filme Favorito */
+
+
+position: absolute;
+width: 654.75px;
+height: 64.63px;
+left: 320px;
+top: 82.4px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+/* Green 1 */
+
+color: #219653;
+
+/* Gray 1 */
+
+border: 1px solid #333333;
+text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.25);
+transform: rotate(4.75deg);
+
+}
+h3{
+  /* Rectangle 1 */
+
+position: absolute;
+width: 520px;
+height: 45px;
+left: 334px;
+top: 227px;
+
+background: #F2F2F2;
+opacity: 0.7;
+/* Gray 1 */
+
+border: 4px solid #333333;
+box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(4px);
+
+}
+h4{
+
+  /* Adicionar */
+
+position: absolute;
+width: 204px;
+height: 56px;
+left: 592px;
+top: 174px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+/* Gray 1 */
+
+color: #333333;
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 235px;
+height: 73px;
+left: 576px;
+top: 266px;
+
+background: #C4C4C4;
+
 }
