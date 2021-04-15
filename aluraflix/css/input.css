@@ -31,3 +31,7 @@ input{
     text-shadow: 2px 2px 0px rgba(0, 
 
 }
+
+#listaFilmes img {
+    margin: 10px;
+  }
