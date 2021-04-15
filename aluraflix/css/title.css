@@ -17,31 +17,23 @@ color: #6673DF;
 
 }
 h2{
-  /* Adicione Seu Filme Favorito */
+  
 
 
-position: absolute;
-width: 654.75px;
-height: 64.63px;
-left: 320px;
-top: 82.4px;
 
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
+
+
+
 line-height: 56px;
-text-align: center;
+
 
 /* Green 1 */
 
-color: #219653;
+
 
 /* Gray 1 */
 
-border: 1px solid #333333;
-text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.25);
-transform: rotate(4.75deg);
+
 
 }
 h3{
