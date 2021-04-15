@@ -1,7 +1,7 @@
 function adicionarFilme()
 {
     console.log("Clicou")
-}/*
+
   var campoFilme=document.querySelector('#filme')
   var filmeFavorito=campoFilme.value
   document.write("<img src=" + filmeFavorito + ">")
