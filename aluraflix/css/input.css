@@ -1,12 +1,6 @@
 input{
     border: 4px solid #333333;
-   /* width: 420px;
-    height: 45px;
-    font-size: 18px;*/
-    /* ir em https://fonts.google.com/?query=press para escolher a fonte */
-
-    padding-left: 10px;
-    
+    padding-left: 10px;   
     font-family: 'Press Start 2P', cursive;
     font-style: normal;
     font-weight: normal;
@@ -18,12 +12,11 @@ input{
     top: 202.4px;
     text-align: center;
     color: #219653; 
-
-    <border: 1px solid #333333;
+    border: 1px solid #333333;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.25);
     transform: rotate(4.75deg);
-    <line-height: 56px;      
-}
+    line-height: 56px;      
+
 
 
 
