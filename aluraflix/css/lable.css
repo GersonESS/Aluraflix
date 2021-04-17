@@ -11,8 +11,8 @@ label{
     top: 132.4px;
     text-align: center;
     color: #219653; 
-    /*border: 1px solid #333333;*/
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.25);
+    /*border: 4px solid #333333;*/
+    text-shadow: 2px 2px 0px rgba(190, 200, 40, 0.25);
     transform: rotate(4.75deg);
     line-height: 56px;      
 }
